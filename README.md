@@ -1,0 +1,2 @@
+# HotSun
+Minecraft server
